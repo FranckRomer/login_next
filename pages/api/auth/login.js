@@ -7,7 +7,7 @@ export default function loginHandler(req, res) {
     // check if email and password are valid
 
     // if email exists, check if password is correct
-
+    
     // if password is correct
 
     if (email == 'admin@admin.com' && password === 'admin') {
